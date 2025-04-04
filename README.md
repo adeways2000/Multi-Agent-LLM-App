@@ -47,7 +47,7 @@ LANGCHAIN_PROJECT=your_project_name
 
 ```bash
 # Finally run the following command
-python 001-basic-multiagent.py
+python multiagent.py
 ```
 
 Now,
