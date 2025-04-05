@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "001-basic-multiagenty"
+name = "basic-multiagent-LangGraph"
 version = "0.1.0"
 description = ""
-authors = ["julio colomer <info@aiaccelera.com>"]
+authors = ["adeways2000@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
