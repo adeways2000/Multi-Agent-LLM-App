@@ -2,7 +2,7 @@
 name = "basic-multiagent-LangGraph"
 version = "0.1.0"
 description = ""
-authors = ["adeways2000@gmail.com>"]
+authors = ["Adebisi Ayokunle <adeways2000@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
